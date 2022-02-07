@@ -3,7 +3,7 @@
 ## Description
 ________
 
-This weeks challenge is to build a Weather Dashboard that retrieves data from a weather API to 
+This weeks challenge is to build a Weather Dashboard that retrieves data from a Open Weather API to track the current weather and 5 Day Forecast of a City.
 
 
 ## User Story
@@ -30,11 +30,11 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 
-![alt text]( "Weather Dashboard")
+![alt text](assets/images/Weather-Dash.jpg "Weather Dashboard")
 
 ## Git Hub
 ___
 
-Please find the URL for the completed challenge: 
+Please find the URL for the completed challenge: https://bdjs0033.github.io/Weather_Dashboard/
 
-Please find the URL for the repository:
+Please find the URL for the repository: https://github.com/BDJS0033/Weather_Dashboard
